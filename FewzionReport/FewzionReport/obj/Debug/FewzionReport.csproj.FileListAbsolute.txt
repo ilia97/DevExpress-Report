@@ -1,0 +1,9 @@
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\obj\Debug\FewzionReport.exe.config
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\obj\Debug\FewzionReport.Report.resources
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\obj\Debug\FewzionReport.csproj.GenerateResource.Cache
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\obj\Debug\FewzionReport.csproj.CoreCompileInputs.cache
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\bin\Debug\FewzionReport.exe.config
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\bin\Debug\FewzionReport.exe
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\bin\Debug\FewzionReport.pdb
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\obj\Debug\FewzionReport.exe
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\obj\Debug\FewzionReport.pdb
