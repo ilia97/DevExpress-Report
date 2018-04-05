@@ -7,3 +7,4 @@ D:\Projects\DevExpress Report\FewzionReport\FewzionReport\bin\Debug\FewzionRepor
 D:\Projects\DevExpress Report\FewzionReport\FewzionReport\bin\Debug\FewzionReport.pdb
 D:\Projects\DevExpress Report\FewzionReport\FewzionReport\obj\Debug\FewzionReport.exe
 D:\Projects\DevExpress Report\FewzionReport\FewzionReport\obj\Debug\FewzionReport.pdb
+D:\Projects\DevExpress Report\FewzionReport\FewzionReport\obj\Debug\FewzionReport.csprojResolveAssemblyReference.cache
